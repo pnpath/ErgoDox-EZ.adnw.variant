@@ -11,3 +11,6 @@ Das Layout entstand nach folgenden Kriterien:
 3. Übernahme der Ebenen aus dem <a href="http://neo-layout.org">Neo-Projekt</a>
 
 4. Verteilung der restlichen Funktionstasten nach meinen Vorlieben
+
+
+<img src="https://github.com/pnpath/ErgoDox-EZ.adnw.variant/blob/master/keyboard-layout.png">
