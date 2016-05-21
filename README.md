@@ -13,6 +13,6 @@ Das Layout entstand nach folgenden Kriterien:
 4. Verteilung der restlichen Funktionstasten nach meinen Vorlieben
 
 
-<img src="https://github.com/pnpath/ErgoDox-EZ.adnw.variant/blob/master/keyboard-layout.png">
+<img src="https://github.com/pnpath/ErgoDox-EZ.adnw.variant/blob/master/layout 0,20160521.png">
 
 WIP
